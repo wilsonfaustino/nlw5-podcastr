@@ -1,0 +1,134 @@
+{
+  "episodes": [
+    {
+      "id": "10--Apple-Transformando-Bugs-em-Features",      
+      "title": "10 = Apple: Transformando Bugs em Features",
+      "members": "Fernando Cezar, Edgar Berlinck, Natan Souza e Rafael Ponte.",
+      "published_at": "2020-02-26 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio, falaremos sobre a Apple de antigamente e a atual. Ainda, tentamos responder a seguinte pergunta: vale a pena um dev comprar mac?</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/10647503/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-26%2F52678632-44100-2-b077b63a10a95.mp3",
+        "type": "audio/mpeg",
+        "duration": 4444
+      }
+    },
+    {
+      "id": "09--UX-de-Palco",      
+      "title": "09 = UX de Palco",
+      "members": "João Paulo, Fernando Cezar, Edgar Berlinck (@edgarberlinck), Natan Souza (@designernatan)",
+      "published_at": "2020-01-28 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio, falaremos sobre o UX.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/9995530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-28%2F45477398-44100-2-38bba25c29b58.mp3",
+        "type": "audio/mpeg",
+        "duration": 5048
+      }
+    },
+    {
+      "id": "08--Ano-Novo--Decepes-de-Sempre",      
+      "title": "08 = Ano Novo, Decepções de Sempre!",
+      "members": "João Paulo, Fernando Cezar, Guilherme Moreira, Bruno Porkaria, Rafael Ponte e Simone.",
+      "published_at": "2020-01-21 13:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Os desenvolvedores Wesley Willians e Lucas Santos foram convidados para este Faladev para ter uma conversa sobre o que são micro-serviços e quais são os desafios e as barreiras de sua aplicação.</p><p>Nessa edição, Diego Fernandes e Daniele Evangelista guiam a conversa levantando tópicos e questionamentos relevantes sobre o assunto.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.  #programação #rocketseat #programador #programador</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/9804439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-21%2F44385312-44100-2-5b08e292cb857.mp3",
+        "type": "audio/mpeg",
+        "duration": 4287
+      }
+    },
+    {
+      "id": "07--Agilidade-Vai-Fazendo-Ai",      
+      "title": "07 = Agilidade: Vai Fazendo Aí",
+      "members": "João Paulo, Fernando Cezar, Gabryella Bloss, Rafael Ponte, Walter White e Christiano Milfont (@cmilfont)",
+      "published_at": "2020-01-02 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio, falaremos sobre o Agile Fake e suas vertentes.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/9443024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-3%2F41752016-44100-2-5c2dd831509ea.mp3",
+        "type": "audio/mpeg",
+        "duration": 5943
+      }
+    },
+    {
+      "id": "06--Conselhos-para-DESmotivar-a-NO-ser-um-Dev",      
+      "title": "06 = Conselhos para DESmotivar a NÃO ser um Dev",
+      "members": "João Paulo, Fernando Cezar, Gabryella Bloss, Rafael Ponte e Chandler Bing.",
+      "published_at": "2019-10-19 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio especial do dia do programador, damos dicar (ou não) de como se tornar um bom (ou não) dev.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/7257818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-19%2F29859145-44100-2-6063e8dee859d.mp3",
+        "type": "audio/mpeg",
+        "duration": 4443
+      }
+    },
+    {
+      "id": "05--Java-Carreta-Furaco",      
+      "title": "05 = Java Carreta Furacão",
+      "members": "João Paulo, Guilherme Moreira, Fred Maia, Rafael Ponte e Douglas Crockford",
+      "published_at": "2019-09-11 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio falaremos sobre a linguagem mais amada e odiada de todas, o Java!</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/4611346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-11%2F23269934-44100-2-0a973f24302d7.mp3",
+        "type": "audio/mpeg",
+        "duration": 4229
+      }
+    },
+    {
+      "id": "04--O-Mindset-das-Vagas-de-TI",      
+      "title": "04 = O Mindset das Vagas de TI",
+      "members": "João Paulo, Fernando Cesar e Marcelo Carvalho.",
+      "published_at": "2019-09-04 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio comentaremos sobre o formato das vagas de TI e experiencias pessoas sobre as oportunidades da nossa área, seja como recrutador ou candidato.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/4501838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-10%2F22933235-44100-2-a8a7b18385226.mp3",
+        "type": "audio/mpeg",
+        "duration": 4564
+      }
+    },
+    {
+      "id": "03--A-Finesse-de-um-Dev",      
+      "title": "03 = A Finesse de um Dev",
+      "members": "João Paulo, Fernando Cesar, Guilherme Moreira e Rogerinho do Ingá.",
+      "published_at": "2019-08-07 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio falaremos sobre o comportamento, atitudes e dia a dia desse ser estranho denominado desenvolvedor(a).</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/4132369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-7%2F20419393-44100-2-b104296baa0e1.mp3",
+        "type": "audio/mpeg",
+        "duration": 4365
+      }
+    },
+    {
+      "id": "02--Fullstack-Elastico",      
+      "title": "02 = Fullstack Elastico",
+      "members": "João Paulo, Fernando Cesar, Guilherme Moreira, Bovino e Michael Scott.",
+      "published_at": "2019-07-25 22:00:00",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste episódio falaremos sobre desenvolvedor FullStack e suas vertentes. </p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/3983643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-28%2F19703520-44100-2-16b764f686bd3.mp3",
+        "type": "audio/mpeg",
+        "duration": 2731
+      }
+    },
+    {
+      "id": "01--Eu-como-dev-cansado-estou-cansado-de-tudo",      
+      "title": "01 = Eu como dev cansado estou cansado de tudo!",
+      "members": "João Paulo, Fernando Cesar, Guilherme Moreira e Mr. Robot.",
+      "published_at": "2019-07-08 14:48:42",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste primeiro episódio vamos discutir sobre o que estamos cansados.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/3798720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-8%2F18408661-44100-2-7d00402d6f474.mp3",
+        "type": "audio/mpeg",
+        "duration": 3206
+      }
+    }
+  ]
+}

@@ -1,6 +1,19 @@
 {
   "episodes": [
     {
+      "id": "01--Eu-como-dev-cansado-estou-cansado-de-tudo",      
+      "title": "01 = Eu como dev cansado estou cansado de tudo!",
+      "members": "João Paulo, Fernando Cesar, Guilherme Moreira e Mr. Robot.",
+      "published_at": "2019-07-08 14:48:42",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2010536/2010536-1562562063711-f32b0eee5379a.jpg",
+      "description": "<p>Neste primeiro episódio vamos discutir sobre o que estamos cansados.</p>",
+      "file": {
+        "url": "https://anchor.fm/s/c946c20/podcast/play/3798720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-8%2F18408661-44100-2-7d00402d6f474.mp3",
+        "type": "audio/mpeg",
+        "duration": 3206
+      }
+    },
+    {
       "id": "a-importancia-da-contribuicao-em-open-source",      
       "title": "Faladev #30 | A importância da contribuição em Open Source",
       "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
